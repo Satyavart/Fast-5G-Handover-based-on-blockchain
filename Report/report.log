@@ -1,0 +1,451 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.5.10)  12 MAY 2022 22:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Projects/WES/Report/report.tex
+(c:/Projects/WES/Report/report.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-29> (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count194
+\l__pdf_internal_box=\box50
+) (report.aux (files/title.aux) (files/certificate.aux) (files/declaration.aux) (files/ack.aux) (files/abstract.aux) (files/ch1.aux) (files/ch2.aux) (files/ch3.aux) (files/ch4.aux) (files/ch5.aux) (files/refrences.aux))
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+ (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count195
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count196
+\nofMParguments=\count197
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count198
+\MPscratchDim=\dimen142
+\MPnumerator=\count199
+\makeMPintoPDFobject=\count266
+\everyMPtoPDFconversion=\toks20
+) (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Satya\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\openout2 = `files/title.aux'.
+
+ (files/title.tex
+<img/logo.png, id=1, 308.15125pt x 325.215pt>
+File: img/logo.png Graphic file (type png)
+<use img/logo.png>
+Package pdftex.def Info: img/logo.png  used on input line 12.
+(pdftex.def)             Requested size: 246.52132pt x 260.17235pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 24.
+ [1
+
+
+{C:/Users/Satya/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/logo.png>])
+\openout2 = `files/certificate.aux'.
+
+ (files/certificate.tex) [1
+
+
+
+
+]
+\openout2 = `files/declaration.aux'.
+
+ (files/declaration.tex) [2
+
+
+
+
+]
+\openout2 = `files/ack.aux'.
+
+ (files/ack.tex) [3
+
+
+
+
+]
+\openout2 = `files/abstract.aux'.
+
+ (files/abstract.tex) [4
+
+
+
+
+] (report.toc [5
+
+
+
+])
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [6] (report.lof)
+\tf@lof=\write4
+\openout4 = `report.lof'.
+
+ [7
+
+] (report.lot)
+\tf@lot=\write5
+\openout5 = `report.lot'.
+
+ [8
+
+]
+\openout2 = `files/ch1.aux'.
+
+ (files/ch1.tex
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+[9
+
+
+]
+<img/handover.jpg, id=42, 334.78015pt x 231.50899pt>
+File: img/handover.jpg Graphic file (type jpg)
+<use img/handover.jpg>
+Package pdftex.def Info: img/handover.jpg  used on input line 45.
+(pdftex.def)             Requested size: 267.82446pt x 185.20743pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--61
+
+ []
+
+<img/blockchain.jpg, id=43, 722.7pt x 147.9126pt>
+File: img/blockchain.jpg Graphic file (type jpg)
+<use img/blockchain.jpg>
+Package pdftex.def Info: img/blockchain.jpg  used on input line 77.
+(pdftex.def)             Requested size: 361.3491pt x 73.95612pt.
+
+Overfull \hbox (16.3491pt too wide) in paragraph at lines 77--78
+ [][] 
+ []
+
+[10 <./img/handover.jpg>])
+Underfull \hbox (badness 10000) in paragraph at lines 84--24
+
+ []
+
+[11 <./img/blockchain.jpg>]
+\openout2 = `files/ch2.aux'.
+
+ (files/ch2.tex
+Chapter 2.
+<img/LTEA.jpg, id=50, 746.18774pt x 317.38576pt>
+File: img/LTEA.jpg Graphic file (type jpg)
+<use img/LTEA.jpg>
+Package pdftex.def Info: img/LTEA.jpg  used on input line 14.
+(pdftex.def)             Requested size: 373.09296pt x 158.69249pt.
+
+Overfull \hbox (28.09296pt too wide) in paragraph at lines 14--15
+ [][] 
+ []
+
+[12
+
+
+
+
+ <./img/LTEA.jpg>]
+<img/ultran.jpg, id=56, 562.1pt x 335.2525pt>
+File: img/ultran.jpg Graphic file (type jpg)
+<use img/ultran.jpg>
+Package pdftex.def Info: img/ultran.jpg  used on input line 45.
+(pdftex.def)             Requested size: 281.04932pt x 167.62584pt.
+ [13 <./img/ultran.jpg>]
+<img/epc.jpg, id=60, 562.1pt x 346.29375pt>
+File: img/epc.jpg Graphic file (type jpg)
+<use img/epc.jpg>
+Package pdftex.def Info: img/epc.jpg  used on input line 65.
+(pdftex.def)             Requested size: 281.04932pt x 173.14644pt.
+<img/split.jpg, id=61, 165.61874pt x 167.12437pt>
+File: img/split.jpg Graphic file (type jpg)
+<use img/split.jpg>
+Package pdftex.def Info: img/split.jpg  used on input line 96.
+(pdftex.def)             Requested size: 82.80916pt x 83.56197pt.
+ [14 <./img/epc.jpg>]
+<img/sector.png, id=65, 781.7205pt x 365.56575pt>
+File: img/sector.png Graphic file (type png)
+<use img/sector.png>
+Package pdftex.def Info: img/sector.png  used on input line 106.
+(pdftex.def)             Requested size: 117.253pt x 54.83249pt.
+<img/5g-arch.jpg, id=66, 298.716pt x 221.628pt>
+File: img/5g-arch.jpg Graphic file (type jpg)
+<use img/5g-arch.jpg>
+Package pdftex.def Info: img/5g-arch.jpg  used on input line 123.
+(pdftex.def)             Requested size: 209.09976pt x 155.13853pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./img/split.jpg> <./img/sector.png>]
+<img/5g-rpc.jpg, id=71, 308.352pt x 160.9212pt>
+File: img/5g-rpc.jpg Graphic file (type jpg)
+<use img/5g-rpc.jpg>
+Package pdftex.def Info: img/5g-rpc.jpg  used on input line 157.
+(pdftex.def)             Requested size: 185.01262pt x 96.55345pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16 <./img/5g-arch.jpg>]
+<img/attack.jpg, id=75, 519.74174pt x 202.356pt>
+File: img/attack.jpg Graphic file (type jpg)
+<use img/attack.jpg>
+Package pdftex.def Info: img/attack.jpg  used on input line 177.
+(pdftex.def)             Requested size: 379.40833pt x 147.71864pt.
+
+Overfull \hbox (34.40833pt too wide) in paragraph at lines 177--178
+ [][] 
+ []
+
+[17 <./img/5g-rpc.jpg> <./img/attack.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 217--224
+
+ []
+
+[18] [19] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+[21]) [22]
+\openout2 = `files/ch3.aux'.
+
+ (files/ch3.tex
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--25
+
+ []
+
+) [23
+
+
+
+
+]
+\openout2 = `files/ch4.aux'.
+
+ (files/ch4.tex
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+
+ []
+
+<img/celll.png, id=100, 243.27507pt x 251.15106pt>
+File: img/celll.png Graphic file (type png)
+<use img/celll.png>
+Package pdftex.def Info: img/celll.png  used on input line 18.
+(pdftex.def)             Requested size: 145.96616pt x 150.69179pt.
+[24
+
+
+
+
+ <./img/celll.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
+
+ []
+
+<img/res.png, id=107, 823.075pt x 363.3575pt>
+File: img/res.png Graphic file (type png)
+<use img/res.png>
+Package pdftex.def Info: img/res.png  used on input line 86.
+(pdftex.def)             Requested size: 411.53648pt x 181.6783pt.
+
+Overfull \hbox (66.53648pt too wide) in paragraph at lines 86--87
+ [][] 
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+[26 <./img/res.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+[27]
+Overfull \hbox (9.55249pt too wide) in paragraph at lines 170--171
+[]\OT1/cmr/m/n/10 Update value in $\OML/cmm/m/it/10 ID[]$ \OT1/cmr/m/n/10 as $\OML/cmm/m/it/10 T[] \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 T[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 MME[] \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 MME[]$\OT1/cmr/m/n/10 , $\OML/cmm/m/it/10 Blockchain \OMS/cmsy/m/n/10  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+[28] [29]
+Underfull \hbox (badness 10000) in paragraph at lines 235--239
+
+ []
+
+<img/hssa.png, id=124, 961.5925pt x 437.635pt>
+File: img/hssa.png Graphic file (type png)
+<use img/hssa.png>
+Package pdftex.def Info: img/hssa.png  used on input line 242.
+(pdftex.def)             Requested size: 451.94853pt x 205.68848pt.
+
+Overfull \hbox (106.94853pt too wide) in paragraph at lines 242--243
+ [][] 
+ []
+
+[30 <./img/hssa.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--274
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--274
+
+ []
+
+[31]
+<img/enba.jpg, id=133, 730.52925pt x 322.806pt>
+File: img/enba.jpg Graphic file (type jpg)
+<use img/enba.jpg>
+Package pdftex.def Info: img/enba.jpg  used on input line 312.
+(pdftex.def)             Requested size: 365.26373pt x 161.4026pt.
+
+Overfull \hbox (20.26373pt too wide) in paragraph at lines 312--313
+ [][] 
+ []
+
+) [32] [33 <./img/enba.jpg>]
+\openout2 = `files/ch5.aux'.
+
+ (files/ch5.tex
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
+) [34
+
+
+
+
+]
+\openout2 = `files/refrences.aux'.
+
+ (files/refrences.tex
+Overfull \hbox (82.52863pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/m/n/10 https://sites.google.com/view/ansuman/wireless-communications-and-networks?authuser=0 
+ []
+
+
+Overfull \hbox (28.5424pt too wide) in paragraph at lines 11--12
+[]\OT1/cmr/m/n/10 https://www.itu.int/en/mediacentre/backgrounders/Pages/5G-fifth-generation-
+ []
+
+[35
+
+
+
+
+]) [36] (report.aux (files/title.aux) (files/certificate.aux) (files/declaration.aux) (files/ack.aux) (files/abstract.aux) (files/ch1.aux) (files/ch2.aux) (files/ch3.aux) (files/ch4.aux) (files/ch5.aux) (files/refrences.aux)) ) 
+Here is how much of TeX's memory you used:
+ 1780 strings out of 478619
+ 34873 string characters out of 2843245
+ 324517 words of memory out of 3000000
+ 19864 multiletter control sequences out of 15000+600000
+ 472930 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,682b,307s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Satya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Satya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on report.pdf (37 pages, 1249447 bytes).
+PDF statistics:
+ 195 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+

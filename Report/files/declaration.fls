@@ -1,0 +1,4 @@
+PWD c:\Projects\WES\Report\files
+INPUT C:\Users\Satya\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Projects\WES\Report\files\declaration.tex
+OUTPUT declaration.log

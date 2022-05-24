@@ -1,0 +1,45 @@
+\contentsline {chapter}{\numberline {1}Introduction}{9}{}%
+\contentsline {section}{\numberline {1.1}Handover}{9}{}%
+\contentsline {section}{\numberline {1.2}Classification of Handover}{10}{}%
+\contentsline {subsection}{\numberline {1.2.1}Inter MME Handover}{10}{}%
+\contentsline {subsection}{\numberline {1.2.2}Intra MME Handover}{10}{}%
+\contentsline {section}{\numberline {1.3}What is blockchain}{10}{}%
+\contentsline {chapter}{\numberline {2}Survey}{12}{}%
+\contentsline {section}{\numberline {2.1}LTE-A Network Architecture}{12}{}%
+\contentsline {subsection}{\numberline {2.1.1}User Equipment (UE)}{12}{}%
+\contentsline {subsection}{\numberline {2.1.2}The E-UTRAN }{13}{}%
+\contentsline {subsection}{\numberline {2.1.3}The Evolved Packet Core (EPC)}{13}{}%
+\contentsline {section}{\numberline {2.2}Increasing Network Capacity}{14}{}%
+\contentsline {section}{\numberline {2.3}5G Network Architecture}{15}{}%
+\contentsline {subsection}{\numberline {2.3.1}Core Network}{16}{}%
+\contentsline {subsection}{\numberline {2.3.2}Radio Access Network}{16}{}%
+\contentsline {section}{\numberline {2.4}Threat Model}{17}{}%
+\contentsline {section}{\numberline {2.5}Security Requirement}{17}{}%
+\contentsline {subsection}{\numberline {2.5.1}Mutual Authentication and Authorization}{18}{}%
+\contentsline {subsection}{\numberline {2.5.2}Confidentiality}{18}{}%
+\contentsline {subsection}{\numberline {2.5.3}Integrity}{18}{}%
+\contentsline {subsection}{\numberline {2.5.4}Availability}{19}{}%
+\contentsline {subsection}{\numberline {2.5.5}Resistent to active and passive attacks}{19}{}%
+\contentsline {subsection}{\numberline {2.5.6}Session Key Secrecy}{19}{}%
+\contentsline {subsubsection}{Forward/Backward Secrecy}{19}{}%
+\contentsline {subsubsection}{Key Escrow Freshness}{20}{}%
+\contentsline {subsubsection}{Ephemeral Secret Leakage}{20}{}%
+\contentsline {subsection}{\numberline {2.5.7}Privacy}{20}{}%
+\contentsline {subsubsection}{Conditional Privacy}{20}{}%
+\contentsline {subsubsection}{Non Traceability}{20}{}%
+\contentsline {subsubsection}{Anonymity}{20}{}%
+\contentsline {section}{\numberline {2.6}Possible Solution of Security Requirement}{20}{}%
+\contentsline {subsection}{\numberline {2.6.1}Mutual Authentication}{20}{}%
+\contentsline {subsection}{\numberline {2.6.2}Proper Key agreement}{21}{}%
+\contentsline {subsection}{\numberline {2.6.3}Dynamic Key}{21}{}%
+\contentsline {subsection}{\numberline {2.6.4}Desynchronization Resistant}{21}{}%
+\contentsline {subsection}{\numberline {2.6.5}Dynamic Pseudonym}{21}{}%
+\contentsline {subsection}{\numberline {2.6.6}Short-term and Long-term Key}{21}{}%
+\contentsline {chapter}{\numberline {3}Problem Statement}{23}{}%
+\contentsline {chapter}{\numberline {4}Proposed Method}{24}{}%
+\contentsline {section}{\numberline {4.1}Assumption Model}{24}{}%
+\contentsline {section}{\numberline {4.2}Fast and Secure Handover}{25}{}%
+\contentsline {subsection}{\numberline {4.2.1}Registration of user}{26}{}%
+\contentsline {subsection}{\numberline {4.2.2}Mutual Authentication with HSS}{27}{}%
+\contentsline {subsection}{\numberline {4.2.3}Mutual Authentication with eNB}{31}{}%
+\contentsline {chapter}{\numberline {5}Future Scope}{34}{}%
